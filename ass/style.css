@@ -37,7 +37,7 @@ input[type="text"],input[type="password"]
    margin: 8px 0;
    padding: 12px 20px;
    display: inline-block;
-   background-color: rgba(129, 126, 126, 0.294);
+   background-color: rgba(128, 126, 126, 0.294);
    color: white;
    border: none;
 }
